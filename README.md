@@ -1,5 +1,12 @@
 # Night Ledger — a stealth burglary in three floors
 
+[![make.fun · best-stealth-game-20261121-1759](https://make.fun/badge/best-stealth-game-20261121-1759.svg)](https://make.fun/bounty/best-stealth-game-20261121-1759?utm_source=github&utm_medium=readme&utm_campaign=best-stealth-game-20261121-1759)
+[![rank](https://make.fun/badge/best-stealth-game-20261121-1759/chrihh/makefun-stealth-game/rank.svg)](https://make.fun/bounty/best-stealth-game-20261121-1759/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-stealth-game-20261121-1759)
+[![reward](https://make.fun/badge/best-stealth-game-20261121-1759/chrihh/makefun-stealth-game/reward.svg)](https://make.fun/bounty/best-stealth-game-20261121-1759?utm_source=github&utm_medium=readme&utm_campaign=best-stealth-game-20261121-1759)
+
+Entered in the [make.fun](https://make.fun) bounty above. New to make.fun?
+Join with the referral link https://make.fun/r/44n6pkpv
+
 An original top-down **stealth game** for the make.fun bounty
 [“Make the best stealth game”](https://make.fun/bounty/best-stealth-game-20261121-1759).
 You are a burglar in the moonlit Meridian Archive. On each of three floors:
